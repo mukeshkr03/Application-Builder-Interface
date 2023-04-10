@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Text", 
+        "description" : "Supports Markdown or HTML",
+        "image" : "TextFieldsIcon" 
+    },
+    {
+        "name": "Button", 
+        "description" : "Trigger actions loke run queries, export data etc",
+        "image" : "CheckBoxOutlineBlankIcon"
+    },
+    {
+        "name": "Dropdown", 
+        "description" : "Select from a set of options",
+        "image" : "ArrowDropDownCircleIcon"
+    },
+    {
+        "name": "Table", 
+        "description" : "Display tabular data with pagination",
+        "image" : "TableChartIcon"
+    }
+]

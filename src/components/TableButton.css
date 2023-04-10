@@ -1,0 +1,20 @@
+.table {
+  max-width: calc(100% - 450px);
+  cursor: pointer;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 0px;
+  border: 1px solid gray;
+  background-color: white;
+}
+
+th {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: bold;
+}
+
+td {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}

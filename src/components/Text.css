@@ -1,0 +1,16 @@
+.inputField {
+  font-size: 15px;
+  border: none;
+  height: 1.5rem;
+  width: 8rem;
+}
+
+.inputField:hover {
+  background: white;
+  border: 1px solid blue;
+}
+
+textarea:focus,
+input:focus {
+  outline: none;
+}

@@ -1,0 +1,12 @@
+.draggable{
+    max-width: calc(100% - 450px);
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width : 0px; 
+}
+
+.selectItems{
+    width : 8rem;
+    border : 1px solid blue;
+    outline: none;
+}

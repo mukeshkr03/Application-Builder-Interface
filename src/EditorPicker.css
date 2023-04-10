@@ -1,0 +1,27 @@
+.editor-picker {
+  padding: 25px;
+  width: 250px;
+  background-color: rgb(253, 253, 253);
+  z-index: 2;
+}
+
+.editorPickerInput {
+  width: 10rem;
+  border: none;
+}
+
+.headerSearch {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+  height: 15px;
+  color: gray;
+  background-color: white;
+  border: 2px solid rgb(159, 158, 158);
+}
+
+.headerSearch:hover {
+  background: white;
+  border: 1px solid blue;
+}
